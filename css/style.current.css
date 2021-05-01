@@ -750,10 +750,11 @@ h5 {
 }
 
 .col-lg-7 {
-    -ms-flex: 0 0 58.333333%;
-    flex: 0 0 58.333333%;
-    max-width: 58.333333%;
+    flex: 0 0 90%;
+    width: 100%;
     margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .boxtop {
